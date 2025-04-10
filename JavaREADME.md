@@ -26,6 +26,7 @@ This repository includes:
 - **Recursion**: When a method calls itself to solve a problem. 
  
  Control Flow Programs
+
 🔹 Conditional Statements
 
 Find the largest among three numbers
@@ -49,6 +50,7 @@ Skipping even numbers using continue
 Exiting a loop early with break
 
 🔢 Array Programs
+
 🔹 Basic Array Operations
 
 Initializing and printing arrays
