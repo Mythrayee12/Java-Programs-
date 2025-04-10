@@ -15,7 +15,15 @@ This repository includes:
    - Basic Operations (Insert, Delete, Update, Search)  
    - Sorting & Searching Algorithms  
    - Multi-Dimensional Arrays (Matrix Operations)  
-   - Advanced Problems (Merging, Rotating, Duplicates)  
+   - Advanced Problems (Merging, Rotating, Duplicates)
+### 🔹 Key Concepts of Methods:
+
+- **Method Declaration**: Defines what the method does and what inputs it takes.
+- **Method Invocation**: Calling the method to perform its task.
+- **Return Types**: Specifies what type of value (if any) a method returns.
+- **Parameters**: Values passed to the method for processing.
+- **Method Overloading**: Defining multiple methods with the same name but different parameters.
+- **Recursion**: When a method calls itself to solve a problem. 
  
  Control Flow Programs
 🔹 Conditional Statements
