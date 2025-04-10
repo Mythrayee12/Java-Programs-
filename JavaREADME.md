@@ -49,7 +49,7 @@ Skipping even numbers using continue
 
 Exiting a loop early with break
 
-🔢 Array Programs
+## 🔢 Array Programs
 
 🔹 Basic Array Operations
 
